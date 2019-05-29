@@ -1,0 +1,4 @@
+2600f,890f,73.5f,airbusA320,180,local
+1600f,790f,63.5f,airbusB940,300,highRange
+11300f,980f,100.5f,boeing747,370,ultraHighRange
+2600f,792f,86.5f,tu214,200,middleRange
